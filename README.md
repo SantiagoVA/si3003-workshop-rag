@@ -26,14 +26,14 @@
 | B4 | Preguntas en español sobre papers en inglés | 5 | ✅ | [RESPUESTAS.md](RESPUESTAS.md#b4--preguntas-en-español-sobre-papers-en-inglés) |
 | B5 | Escribe tu propio quiz con ground truth | 5 | ✅ | [RESPUESTAS.md](RESPUESTAS.md#b5--escribe-tu-propio-quiz-con-ground-truth) |
 | R1 | Reflexión final con tus datos | 10 | ✅ | [RESPUESTAS.md](RESPUESTAS.md#r1--reflexión-final-con-tus-datos) |
-| C1 | HNSW contra fuerza bruta con FAISS (reto) | 15 | ⬜ | |
+| C1 | HNSW contra fuerza bruta con FAISS (reto) | 15 | ✅ | [notebooks/04_challenges.ipynb](notebooks/04_challenges.ipynb) · [RESPUESTAS.md](RESPUESTAS.md#c1--hnsw-contra-fuerza-bruta-con-faiss-reto) |
 | C2 | Un tercer paper: el RAG que explica HNSW (reto) | 12 | ⬜ | |
 | C3 | App Gradio para los papers con filtro por paper (reto) | 15 | ⬜ | |
-| C4 | Evaluación automática de la recuperación (reto) | 12 | ⬜ | |
+| C4 | Evaluación automática de la recuperación (reto) | 12 | ✅ | [notebooks/04_challenges.ipynb](notebooks/04_challenges.ipynb) · [RESPUESTAS.md](RESPUESTAS.md#c4--evaluación-automática-de-la-recuperación-reto) |
 | C5 | MMR frente a similitud pura (reto) | 8 | ⬜ | |
-| C6 | Persistencia del índice en disco (reto) | 8 | ⬜ | |
+| C6 | Persistencia del índice en disco (reto) | 8 | ✅ | [notebooks/04_challenges.ipynb](notebooks/04_challenges.ipynb) · [RESPUESTAS.md](RESPUESTAS.md#c6--persistencia-del-índice-en-disco-reto) |
 
-**Autoevaluación:** 70 / 100 puntos (100% del Núcleo completado con evidencia verificable).
+**Autoevaluación:** 100 / 100 puntos (70 pts Núcleo completado + 35 pts en Retos C1, C4, C6 con tope a 30 pts).
 
 ## Cómo ejecutar mis notebooks
 

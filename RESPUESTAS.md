@@ -1,5 +1,5 @@
 # Respuestas del workshop RAG — SI3003
-**Estudiante:** Santiago Vásquez Arboleda (1000357979) 
+**Estudiante:** Santiago Vásquez Arboleda (1000357979) Vásquez Arboleda 
 **Repositorio:** [SantiagoVA/si3003-workshop-rag](https://github.com/SantiagoVA/si3003-workshop-rag)  
 **Fecha:** 2026-10-23  
 
