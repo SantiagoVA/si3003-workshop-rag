@@ -1,3 +1,11 @@
 id,pregunta,fuente_esperada,palabra_clave,respuesta_esperada
 1,How many attention heads does the base Transformer use?,attention_paper.pdf,8,h = 8 heads con dk = dv = 64
 2,What are the two RAG model variants?,rag_paper.pdf,RAG-Token,RAG-Sequence y RAG-Token
+3,What BLEU score did Transformer big achieve on WMT 2014 English-to-German?,attention_paper.pdf,28.4,28.4 BLEU
+4,What scaling factor is used in Scaled Dot-Product Attention?,attention_paper.pdf,sqrt(d_k),1/sqrt(d_k) factor
+5,What pre-trained seq2seq generator model is used by RAG?,rag_paper.pdf,BART,BART-large
+6,What library does RAG use for fast approximate nearest neighbor search?,rag_paper.pdf,FAISS,FAISS library
+7,What Wikipedia dump was used for the non-parametric knowledge source in RAG?,rag_paper.pdf,December 2018,December 2018 dump
+8,What optimizer and warmup steps were used to train the Transformer?,attention_paper.pdf,warmup_steps,Adam with 4000 warmup steps
+9,What is the dimension of the key and value vectors per head in the base Transformer?,attention_paper.pdf,64,d_k = d_v = 64
+10,How does RAG-Sequence differ from RAG-Token in document conditioning?,rag_paper.pdf,latent variable,RAG-Sequence treats the retrieved document as a single latent variable
