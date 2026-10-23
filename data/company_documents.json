@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ventas_001",
+    "title": "Política de descuentos comerciales",
+    "content": "Los descuentos comerciales superiores al 15% requieren aprobación formal del gerente comercial. Descuentos de hasta un 15% pueden ser autorizados directamente por ejecutivos de cuenta senior. En contratos plurianuales superiores a 3 años, se puede otorgar un descuento financiero adicional del 5% previa validación del departamento de finanzas.",
+    "metadata": {
+      "department": "ventas",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "soporte_001",
+    "title": "Acuerdos de nivel de servicio (SLA) de soporte técnico",
+    "content": "Los incidentes de severidad 1 (críticos con interrupción total del servicio) tienen un tiempo de primera respuesta garantizado menor a 15 minutos y tiempo objetivo de mitigación de 4 horas. Los incidentes de severidad 2 (alta o degradación parcial) se responden en menos de 2 horas hábiles. Para incidentes de severidad normal y consultas generales, el SLA de respuesta es de un máximo de 24 horas hábiles.",
+    "metadata": {
+      "department": "soporte",
+      "type": "sla"
+    }
+  },
+  {
+    "id": "rrhh_001",
+    "title": "Política de trabajo remoto y horario flexible",
+    "content": "Los colaboradores de NovaTech Solutions pueden acogerse a la modalidad híbrida trabajando hasta 3 días por semana de forma remota, previa coordinación con su líder directo. La empresa establece una franja de conexión sincrónica obligatoria de 10:00 a 16:00 horas para facilitar la colaboración entre equipos de diferentes zonas horarias.",
+    "metadata": {
+      "department": "recursos_humanos",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "rrhh_002",
+    "title": "Beneficios de salud y bienestar integral",
+    "content": "NovaTech Solutions cubre el 80% del valor de la prima del seguro médico privado de salud y dental para el empleado y sus beneficiarios directos. Adicionalmente, cada colaborador cuenta con un estipendio anual de $600 USD para bienestar físico y salud mental, reembolsable contra facturas de gimnasio, terapias o implementos deportivos.",
+    "metadata": {
+      "department": "recursos_humanos",
+      "type": "benefit"
+    }
+  },
+  {
+    "id": "finanzas_001",
+    "title": "Política de reembolsos y viáticos de viaje",
+    "content": "Todos los gastos de viaje corporativo deben ser legalizados en el sistema dentro de los 10 días calendario posteriores al término del viaje, adjuntando facturas electrónicas válidas. Cualquier gasto individual que supere los $150 USD requiere preaprobación del director del área. La tarifa máxima diaria reconocida para alimentación es de $60 USD.",
+    "metadata": {
+      "department": "finanzas",
+      "type": "policy"
+    }
+  },
+  {
+    "id": "seguridad_001",
+    "title": "Protocolo de seguridad y gestión de contraseñas",
+    "content": "El uso de autenticación de dos factores (MFA) es estrictamente obligatorio en todos los servicios y plataformas corporativas. Las contraseñas deben tener una longitud mínima de 14 caracteres con combinación de mayúsculas, minúsculas, números y caracteres especiales, expirando cada 90 días. Se prohíbe el uso de gestores de contraseñas no autorizados o almacenar claves en texto plano.",
+    "metadata": {
+      "department": "seguridad",
+      "type": "security"
+    }
+  },
+  {
+    "id": "it_001",
+    "title": "Asignación y ciclo de vida de equipos de cómputo",
+    "content": "A cada ingeniero de software se le asigna un portátil de alta gama (MacBook Pro 16 pulgadas o equivalente con 32 GB de memoria RAM y procesador multi-core). El ciclo regular de renovación de equipos es de 3 años. Al finalizar este periodo, el empleado tiene la opción preferencial de adquirir el equipo en desuso por el 10% de su valor comercial inicial.",
+    "metadata": {
+      "department": "it",
+      "type": "hardware"
+    }
+  },
+  {
+    "id": "legal_001",
+    "title": "Propiedad intelectual y confidencialidad",
+    "content": "Todo código fuente, arquitectura técnica, documentación, patentes y algoritmos desarrollados por colaboradores durante su vinculación laboral son propiedad patrimonial exclusiva de NovaTech Solutions. La obligación de confidencialidad, no divulgación y protección de secretos comerciales subsiste durante un periodo de 5 años posteriores a la desvinculación de la compañía.",
+    "metadata": {
+      "department": "legal",
+      "type": "compliance"
+    }
+  }
+]
