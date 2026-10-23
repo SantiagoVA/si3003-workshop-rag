@@ -1,6 +1,7 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
 - **Nombre:** Santiago
+- **Código estudiantil:** [Tu código aquí]
 - **Usuario de GitHub:** [SantiagoVA](https://github.com/SantiagoVA)
 - **Repositorio:** [si3003-workshop-rag](https://github.com/SantiagoVA/si3003-workshop-rag)
 - **Fecha:** 23 de octubre de 2026
